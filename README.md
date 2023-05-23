@@ -3,6 +3,9 @@ Avances para la entrega final:
 
 <img width="559" alt="Captura de Pantalla 2023-05-23 a la(s) 5 09 38 p  m" src="https://github.com/taekwond0/clase_11/assets/127857911/1e6ffe47-4baa-40ba-9209-3f073b93041f">
 
+![image](https://github.com/taekwond0/clase_11/assets/119891004/409d9c4b-1e77-4d48-8d7b-d5dcb7a7e43a)
+
+
 <img width="568" alt="Captura de Pantalla 2023-05-23 a la(s) 5 09 49 p  m" src="https://github.com/taekwond0/clase_11/assets/127857911/43d64d83-318e-4ae4-8999-4c1dc14842ff">
 
 <img width="570" alt="Captura de Pantalla 2023-05-23 a la(s) 5 10 22 p  m" src="https://github.com/taekwond0/clase_11/assets/127857911/decb2cbc-3c3d-4411-bc80-6de1dc9b7b4e">
